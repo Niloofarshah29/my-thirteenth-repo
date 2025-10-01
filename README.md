@@ -1,6 +1,6 @@
 # my-thirteenth-repo
 repoo
-function add(a, b) {
+functio add(a, b) {
   return a + b;
 }
 
