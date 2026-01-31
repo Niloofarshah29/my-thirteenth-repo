@@ -1,5 +1,5 @@
 # my-thirteenth-repo
-repoo
+repo
 function add(a, b) {
   return a + b;
 }
